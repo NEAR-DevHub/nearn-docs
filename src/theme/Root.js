@@ -4,7 +4,7 @@ import React from 'react';
 import useIsBrowser from '@docusaurus/useIsBrowser'; // https://docusaurus.io/docs/advanced/ssg#useisbrowser
 import Gleap from "gleap"; // See https://gleap.io/docs/javascript/ and https://app.gleap.io/projects/62697858a4f6850036ae2e6a/widget
 
-const GLEAP_API_KEY = 'IHPIXAH5KmDsReZtZUeb2BkfCjnh4JV5';
+const GLEAP_API_KEY = 'a8VC1kgMViouW0HhfK6aWTrjYEQaXqra';
 
 // Default implementation, that you can customize
 export default function Root({ children }) {
