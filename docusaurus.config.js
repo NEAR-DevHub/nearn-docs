@@ -101,9 +101,9 @@ const config = {
       navbar: {
         title: 'Docs',
         logo: {
-          alt: 'Treasury Logo',
-          src: 'img/near_logo.svg',
-          srcDark: 'img/near_logo_white.svg',
+          alt: 'Nearn Logo',
+          src: 'img/nearn.svg',
+          srcDark: 'img/nearn_dark.svg',
         },
         items: [
           {
