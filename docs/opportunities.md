@@ -5,12 +5,12 @@ title: About Opportunities
 description: Nearn opportunities
 ---
 
-Nearn has three types of opportunities, with specific rules designed for different use cases:
+[Nearn](https://nearn.io) has three types of opportunities, with specific rules designed for different use cases:
 - [Bounties](#bounties): Host a work competition
 - [Projects](#projects): Hire a Freelancer
 - [Sponsorships](#sponsorships): Support Contributors
 
-### Bounties
+## Bounties
 
 Bounties are listings where everyone completes a given scope of work, and competes for the prize pool.
 
@@ -20,8 +20,11 @@ Bounties are listings where everyone completes a given scope of work, and compet
 
 - Examples: Twitter Threads, Deep-Dives, Memes, Product Feedback, and more
 
+:::info Bounty
+All participants complete your scope of work, and the best submission(s) are rewarded. Get multiple options to choose from.
+:::
 
-### Projects
+## Projects
 
 Projects are freelance gigs — people apply with their proposals but don’t begin working until you pick them.
 
@@ -31,8 +34,11 @@ Projects are freelance gigs — people apply with their proposals but don’t be
 
 - Examples: Full Stack Development, Hype Video Production, Hiring a Community Manager, and more
 
+:::info Project
+Get applications based on a questionnaire set by you, and select one applicant to work with. Give a fixed budget, or ask for quotes.
+:::
 
-### Sponsorships
+## Sponsorships
 
 Sponsorship listings empower you to fund and reward individual contributions by directly sponsoring innovators.
 
@@ -42,3 +48,6 @@ Sponsorship listings empower you to fund and reward individual contributions by 
 
 - Examples: open-source support, community content, creative projects
 
+:::info Sponsorship
+Fund and reward contributions by sponsoring individuals. Share a link to receive expenses or payment requests.
+:::

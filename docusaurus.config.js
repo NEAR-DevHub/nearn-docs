@@ -122,7 +122,7 @@ const config = {
             to: "/support"
           },
           {
-            href: 'https://github.com/NEAR-DevHub/nearn-docs',
+            href: 'https://github.com/NEAR-DevHub/nearn',
             label: 'GitHub',
             position: 'right',
             className: 'github-link'
