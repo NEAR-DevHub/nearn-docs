@@ -8,7 +8,7 @@ description: Introduction
 
 The world’s best [NEAR](https://near.org) talent is on Nearn. [Nearn](https://nearn.io) is a platform that connects projects (sponsors) with skilled contributors (users) to complete bounties, projects, and tasks in the Web3 ecosystem.
 
-## Why Use Nearn
+## Why Nearn?
 
 - **Trustless Payments** – Escrow-like system ensures fair payouts.
 - **Web3 Focus** – All tasks are crypto/blockchain-related.
@@ -16,7 +16,7 @@ The world’s best [NEAR](https://near.org) talent is on Nearn. [Nearn](https://
 
 Whether you’re a freelancer looking to earn crypto or a project seeking contributors, Nearn simplifies the process in a decentralized way.
 
-Below is an overview of how it works for both [**users**](#for-users-talent) and [**sponsors**](#for-sponsors).
+Below is a quick overview of how it works for both [**users**](#for-users-talent) and [**sponsors**](#for-sponsors).
 
 ---
 
