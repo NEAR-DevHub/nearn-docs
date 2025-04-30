@@ -35,7 +35,7 @@ This guide walks you through applying for [bounties](../opportunities.md#bountie
 
 ---
 
-### 3. Apply for a Bounty
+### 3. Select a Bounty
 
 1. Click on a bounty that interests you.
 2. Read the **description, requirements, and budget** carefully.
