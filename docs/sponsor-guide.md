@@ -4,7 +4,7 @@ title: Sponsor Guide
 description: Sponsor guide to create new listings.
 ---
 
-Creating a new listing on [Nearn](https://nearn.io) is a straightforward process. Below is a step-by-step guide for **sponsors** (projects or individuals) looking to post a gig and hire contributors.
+Creating a new listing on [NEARN](https://nearn.io) is a straightforward process. Below is a step-by-step guide for **sponsors** (projects or individuals) looking to post a gig and hire contributors.
 
 :::tip Tips for a Successful Listing
 

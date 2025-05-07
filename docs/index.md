@@ -4,17 +4,16 @@ title: Overview
 description: Introduction
 ---
 
-# Nearn Documentation
+# NEARN Documentation
 
-The world’s best [NEAR](https://near.org) talent is on Nearn. [Nearn](https://nearn.io) is a platform that connects projects (sponsors) with skilled contributors (users) to complete bounties, projects, and tasks in the Web3 ecosystem.
+The world’s best [NEAR](https://near.org) talent is on NEARN. [NEARN](https://nearn.io) is a platform that connects projects (sponsors) with skilled contributors (users) to complete bounties, projects, and tasks in the NEAR ecosystem.
 
-## Why Nearn?
+## Why NEARN?
 
-- **Trustless Payments** – Escrow-like system ensures fair payouts.
-- **Web3 Focus** – All tasks are crypto/blockchain-related.
+- **NEAR Focus** – All tasks target the unique needs of the NEAR ecosystem.
 - **Global Talent Pool** – Access contributors worldwide.
 
-Whether you’re a freelancer looking to earn crypto or a project seeking contributors, Nearn simplifies the process in a decentralized way.
+Whether you’re a freelancer looking to contribute to the NEAR ecosystem or a project seeking contributors, NEARN simplifies the process in a decentralized way.
 
 Below is a quick overview of how it works for both [**users**](#for-users-talent) and [**sponsors**](#for-sponsors).
 
@@ -23,11 +22,11 @@ Below is a quick overview of how it works for both [**users**](#for-users-talent
 ## For Users (Talent)
 
 **Who is it for?**
-Freelancers, developers, designers, writers, and other crypto enthusiasts looking to earn crypto (USDC or tokens) by completing tasks.
+Freelancers, developers, designers, writers, and other NEAR enthusiasts looking to contribute by completing tasks.
 
 **How it works:**
 1. **Sign Up** – Connect your Google account or sign in with your email address.
-2. [**Browse Opportunities**](opportunities.md) – Explore available [sponsorships](opportunities.md#sponsorships), [bounties](opportunities.md#bounties), or [projects](opportunities.md#projects) posted by sponsors.
+2. **Browse [Opportunities](opportunities.md)** – Explore available [sponsorships](opportunities.md#sponsorships), [bounties](opportunities.md#bounties), or [projects](opportunities.md#projects) posted by sponsors.
 3. **Apply/Complete Tasks** – Submit proposals for projects or directly complete bounties (e.g., write a blog, design graphics, audit code).
 4. **Get Paid** – Once approved, receive payment in crypto (usually USDC, NEAR, or other tokens).
 
@@ -38,7 +37,7 @@ Freelancers, developers, designers, writers, and other crypto enthusiasts lookin
 
 **Best for:**
 - Freelancers wanting crypto-paid gigs.
-- Web3 builders looking to contribute to new projects.
+- NEAR builders looking to contribute to new projects.
 - Beginners seeking to enter the crypto space by doing small tasks.
 
 ---
@@ -46,7 +45,7 @@ Freelancers, developers, designers, writers, and other crypto enthusiasts lookin
 ## For Sponsors
 
 **Who is it for?**
-Crypto startups, DAOs, and Web3 projects looking for talent to complete tasks (development, marketing, content, etc.).
+Crypto startups, DAOs, and NEAR projects looking for talent to complete tasks (development, marketing, content, etc.).
 
 **How it works:**
 1. **List Opportunities** – Post [projects](opportunities.md#projects), [bounties](opportunities.md#bounties), and [sponsorships](opportunities.md#sponsorships).
@@ -54,10 +53,10 @@ Crypto startups, DAOs, and Web3 projects looking for talent to complete tasks (d
 3. **Approve & Pay** – Release payment upon satisfactory completion.
 
 **Key Features for Sponsors:**
-- **Access to Skilled Talent** – Find vetted contributors from the Superteam network.
+- **Access to Skilled Talent** – Find vetted contributors from the NEAR ecosystem.
 - **Flexible Engagement** – One-off tasks or recurring gigs.
-- **Crypto-Native Payments** – Pay in USDC or your project’s tokens.
-- **Community Exposure** – Get visibility among active Web3 participants.
+- **Crypto-Native Payments** – Pay in USDC, NEAR, or your project’s tokens.
+- **Community Exposure** – Get visibility among the NEAR community.
 
 **Best for:**
 - Early-stage projects needing affordable, scalable help.

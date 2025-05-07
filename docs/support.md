@@ -11,8 +11,6 @@ Choose from the options below to get started.
 
 <SupportContent />
 
-If you're encountering a bug, please click on the chat icon in the bottom right corner and select "Report an issue."
-
 ## Additional Support
 
 :::tip Telegram support

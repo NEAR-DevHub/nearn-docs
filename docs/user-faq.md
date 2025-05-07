@@ -4,9 +4,9 @@ title: User FAQ
 description: User FAQs
 ---
 
-## Who can participate on Nearn?
+## Who can participate on NEARN?
     
-Anyone with an email address can join [Nearn](https://nearn.io)!
+Anyone with an email address can join [NEARN](https://nearn.io)!
 
 ## What's the difference between Bounty and Project listings?
     

@@ -2,10 +2,10 @@
 sidebar_position: 0
 sidebar_label: Opportunities
 title: About Opportunities
-description: Nearn opportunities
+description: NEARN opportunities
 ---
 
-[Nearn](https://nearn.io) has three types of opportunities, with specific rules designed for different use cases:
+[NEARN](https://nearn.io) has three types of opportunities, with specific rules designed for different use cases:
 - [Bounties](#bounties): Host a work competition
 - [Projects](#projects): Hire a Freelancer
 - [Sponsorships](#sponsorships): Support Contributors
