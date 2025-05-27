@@ -21,7 +21,7 @@ The sponsors are supposed to review, announce, and pay out the winners on NEARN.
 
 None at all!
 
-## What can I use Nearn for?
+## What can I use NEARN for?
 
 NEARN is a platform to get work done from crypto-native talent. This can be in the form of bounties (get the same work done by many people) or hiring freelancers in the form of Project listings.
 NEARN can be used to get any small to medium scale task done, including but not limited to development, writing, design, research, and product feedback.

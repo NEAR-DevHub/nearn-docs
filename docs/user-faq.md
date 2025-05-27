@@ -14,7 +14,7 @@ The main difference between bounty and project listings is the number of people 
 
 ## Who judges the bounties & projects?
 
-The sponsors are supposed to review, announce, and pay out the winners on Nearn.
+The sponsors are supposed to review, announce, and pay out the winners on NEARN.
 
 ## Do participants receive an email confirming their application?
   
