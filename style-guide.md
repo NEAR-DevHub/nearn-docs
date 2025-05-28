@@ -17,7 +17,7 @@ Remember that many readers are not native English speakers, many of them come fr
 
 ### Don’t pre-announce in the documentation
 
-Avoid documenting future features or products, even in innocuous ways (i.e, please don’t write _“we’re currently considering {possible feature enhancement}...”_).
+Avoid documenting future features or products, even in innocuous ways (i.e., please don’t write _“we’re currently considering {possible feature enhancement}...”_).
 
 ### Use descriptive link text
 
