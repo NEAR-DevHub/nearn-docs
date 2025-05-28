@@ -1,7 +1,7 @@
 ---
-sidebar_position: 0
-title: User FAQ
-description: User FAQs
+sidebar_position: 4
+title: Contributor FAQ
+description: Contributor FAQs
 ---
 
 ## Who can participate on NEARN?

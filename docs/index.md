@@ -6,7 +6,7 @@ description: Introduction
 
 # NEARN Documentation
 
-The world’s best [NEAR](https://near.org) talent is on NEARN. [NEARN](https://nearn.io) is a platform that connects projects (sponsors) with skilled contributors (users) to complete bounties, projects, and tasks in the NEAR ecosystem.
+The world’s best [NEAR](https://near.org) talent is on NEARN. [NEARN](https://nearn.io) is a platform that connects projects (sponsors) with skilled contributors to complete bounties, projects, and tasks in the NEAR ecosystem.
 
 ## Why NEARN?
 
@@ -15,11 +15,11 @@ The world’s best [NEAR](https://near.org) talent is on NEARN. [NEARN](https://
 
 Whether you’re a freelancer looking to contribute to the NEAR ecosystem or a project seeking contributors, NEARN simplifies the process in a decentralized way.
 
-Below is a quick overview of how it works for both [**users**](#for-users-talent) and [**sponsors**](#for-sponsors).
+Below is a quick overview of how it works for both [**contributors**](#for-contributors) and [**sponsors**](#for-sponsors).
 
 ---
 
-## For Users (Talent)
+## For Contributors
 
 **Who is it for?**
 Freelancers, developers, designers, writers, and other NEAR enthusiasts looking to contribute by completing tasks.

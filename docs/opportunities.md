@@ -1,7 +1,7 @@
 ---
-sidebar_position: 0
+sidebar_position: 1
 sidebar_label: Opportunities
-title: About Opportunities
+title: About Opportunity Types
 description: NEARN opportunities
 ---
 
