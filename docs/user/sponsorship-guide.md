@@ -31,7 +31,7 @@ This guide walks you through applying for [sponsorships](../opportunities.md#spo
 
 1. Click on a sponsorship that interests you.
 2. Read the **description, requirements, and budget** carefully.
-3. Click **`Send Quote`**.
+3. Click **`Submit Now`**.
 
 ---
 
