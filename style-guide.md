@@ -32,7 +32,7 @@ Page titles should use title case (for example, “Deploy your App in Production
 
 ### Typography
 
-Please use the following conventions, which are derived from Google’s style guide and from developer documentation published by O’Reilly media group:
+Please use the following conventions, which are derived from Google’s style guide and from developer documentation published by O’Reilly Media group:
 
 -   `code font` is used for command-line input and output, and for references to code entity names (variables, types, etc).
 -   _`italic code font`_ is used to show where a reader should swap in the name of a server or other implementation-specific detail in a syntax example or command example.
