@@ -22,7 +22,7 @@ Yes. An email is sent out to the verified email address of the participant to co
 
 ## Can I make changes to my submission after submitting it?
     
-Yes, you can edit your submission until the deadline of the listing is over.
+Yes, you can edit your submission while the submission status is **New** and the listing is **In Progress**. Please note that submissions are locked once they're **Reviewed** or **Shortlisted**.
 
 ## When working in teams, who should make the submission? All team members or just the lead?
     
