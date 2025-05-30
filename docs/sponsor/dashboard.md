@@ -10,7 +10,7 @@ The sponsor dashboard gives you access to comprehensive key metrics at a glance 
 
 ## Manage Active Listings
 
-View all your created opportunities in one organized space.
+You can view all your created opportunities in one organized space:
 
 <div class="screenshot">
 <img alt="Publish" src="/img/sponsor/dashboard.png" />
@@ -28,7 +28,7 @@ Listings progress through distinct stages, clearly indicated on your dashboard v
 
 ### Filter and Search
 
-Easily filter your listings by their type (Bounties, Projects, Sponsorships) or current status to quickly find what you need. Search to pinpoint specific listings.
+You can easily filter your listings by their [type](../opportunities.md) (Bounties, Projects, Sponsorships) or current status to quickly find what you need.
 
 ### Quick Actions & Edits
 
@@ -38,9 +38,9 @@ The listings table offers a clear summary of each opportunity (name, submission 
 
 ## Team Settings
 
-Invite colleagues to collaborate on managing your sponsor profile(s). Assign roles like **`Admin`** (full control, including team management) or **`Member`** (manage listings, submissions, payments) to ensure efficient teamwork and secure access.
+In the **`Team Settings`** section you can view all team members, their roles, and manage pending invites.
 
-You can view all team members, their roles, and manage pending invites.
+You can add colleagues to collaborate on managing your sponsor profile(s), and assign roles like **`Admin`** (full control, including team management) or **`Member`** (manage listings, submissions, payments) to ensure efficient teamwork and secure access.
 
 <div class="screenshot">
 <img alt="Publish" src="/img/sponsor/team-manage.png" />
@@ -50,7 +50,7 @@ You can view all team members, their roles, and manage pending invites.
 
 ## Sponsor-Specific Alerts
 
-Opt-in to receive email notifications critical to managing your opportunities effectively:
+You can opt-in to receive email notifications critical to managing your opportunities effectively:
 - Alerts for new submissions received for your listings.
 - Notifications for comments made on your listings.
 - Deadline-related reminders to help you stay on track.
