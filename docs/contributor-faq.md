@@ -8,6 +8,10 @@ description: Contributor FAQs
     
 Anyone with an email address can join [NEARN](https://nearn.io)!
 
+## I want to be a Sponsor too, should I register again?
+
+No, you don't need to register again. Your registered user account can be used for both roles. (Contributor and Sponsor)
+
 ## What's the difference between Bounty and Project listings?
     
 The main difference between bounty and project listings is the number of people who complete the scope of work. Multiple people submit in a [bounty](opportunities.md#bounties), while for a [project](opportunities.md#projects), only the selected user completes the scope of work.
