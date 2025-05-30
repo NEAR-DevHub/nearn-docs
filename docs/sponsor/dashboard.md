@@ -36,6 +36,10 @@ The listings table offers a clear summary of each opportunity (name, submission 
 
 ---
 
+## Submissions
+
+---
+
 ## Team Settings
 
 In the **`Team Settings`** section you can view all team members, their roles, and manage pending invites.
