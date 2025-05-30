@@ -1,6 +1,6 @@
 ---
-sidebar_position: 0
-title: Sponsor Guide
+sidebar_position: 3
+title: New Listing Guide
 description: Sponsor guide to create new listings.
 ---
 

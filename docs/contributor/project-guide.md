@@ -1,5 +1,5 @@
 ---
-sidebar_position: 0
+sidebar_position: 2
 title: Project Guide
 description: Project user guide
 ---
@@ -35,7 +35,7 @@ This guide walks you through applying for [projects](../opportunities.md#project
 
 1. Click on a project that interests you.
 2. Read the **description, requirements, and budget** carefully.
-3. Click **`Send Quote`**.
+3. Click **`Apply Now`**.
 
 ---
 
