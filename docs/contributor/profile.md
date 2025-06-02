@@ -47,7 +47,7 @@ Your public contributor profile shows your details, skills, an activity feed (e.
   - **Google** account
   - **E-mail** address
 
-### 4. View Your Profile
+### 2. View Your Profile
 
 1. Click on your name. (top-right corner)
 2. On the drop-down menu, select **"Profile"**.
