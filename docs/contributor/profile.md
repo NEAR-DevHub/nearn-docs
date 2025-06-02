@@ -4,6 +4,8 @@ title: Contributor Profile
 description: Contributor's Profile user guide
 ---
 
+## Overview
+
 Your public contributor profile shows your details, skills, an activity feed (e.g., submissions to bounties), and stats like total earned, submissions, and opportunities won.
 
 ---
