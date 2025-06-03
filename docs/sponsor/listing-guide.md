@@ -30,7 +30,10 @@ Follow these simple steps to create a new listing:
 ### 2. Create New Listing
 
 - Once logged in, click **`Create New Listing`** (in the top left navigation bar).
-- Select the listing type ([bounty](opportunities.md#bounties), [project](opportunities.md#projects), [sponsorship](opportunities.md#sponsorships))
+- Select the listing type (bounty, project, sponsorship)
+  - [**Bounties**](opportunities.md#bounties) can have multiple winners with prize distributions.
+  - [**Projects**](opportunities.md#projects) can only have one winner.
+  - [**Sponsorships**](opportunities.md#sponsorships) can support multiple people (non-competitively).
 
 <div class="screenshot">
 
