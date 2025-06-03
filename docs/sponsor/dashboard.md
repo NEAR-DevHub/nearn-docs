@@ -96,6 +96,35 @@ You can add colleagues to collaborate on managing your sponsor profile(s), and a
 <img alt="Publish" src="/img/sponsor/team-manage.png" />
 </div>
 
+### Add Members
+
+To add a new member to your Sponsor team:
+1. Open the **`Team Settings`** section.
+2. Click on the **`Invite Members`** button.
+3. Enter the email address to invite.
+4. Select the member type:
+   - **Member:** can manage listings, submissions, winner announcements and payments.
+   - **Admin:** can add or remove anyone from the team, in addition to having all Member privileges.
+5. Click on **`Send Invite`**.
+
+<div class="screenshot">
+<img alt="Publish" src="/img/sponsor/invite.png" width="50%" />
+</div>
+
+:::tip
+You can also review the pending invitations if you switch to the **`Pending Invites`** tab.
+:::
+
+### Remove Members
+
+If you have administrator rights, you can remove members from the Sponsor team:
+
+1. Open the **`Team Settings`** section.
+2. Search for the user under the **`Team Members`** tab.
+3. Click on the **`Remove`** button next to the user.
+4. A confirmation dialog will open.
+5. Click on **`Remove Member`**.
+
 ---
 
 ## Sponsor-Specific Alerts
