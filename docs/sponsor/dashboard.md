@@ -8,6 +8,14 @@ description: Sponsor guide to Dashboard.
 
 The sponsor dashboard gives you access to comprehensive key metrics at a glance for your selected sponsor account. You can get an instant overview of the total funds rewarded, the number of active listings you're running, and the total submissions received, helping you track your impact and activity.
 
+## Manage Multiple Sponsor Identities
+
+If you oversee several initiatives or entities (e.g., different DAOs, project arms, or grant programs), you can manage all their distinct sponsor profiles from a single NEARN user account, switching seamlessly between them.
+
+:::tip
+On the dashboard you can switch between multiple sponsors by selecting the desired Sponsor from the dropdown box.
+:::
+
 ## Manage Active Listings
 
 You can view all your created opportunities in one organized space:
