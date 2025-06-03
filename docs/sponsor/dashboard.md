@@ -16,6 +16,12 @@ You can view all your created opportunities in one organized space:
 <img alt="Publish" src="/img/sponsor/dashboard.png" />
 </div>
 
+### Listing Metrics
+
+- **Rewarded:** Total compensation (in USD) of listings where the winners have been announced.
+- **Listings:** Total number of listings added to NEARN.
+- **Submissions:** Total number of submissions/applications received on all listings.
+
 ### Listing Lifecycles
 
 Listings progress through distinct stages, clearly indicated on your dashboard via their current status:
