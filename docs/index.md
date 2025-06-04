@@ -17,6 +17,10 @@ Whether you’re a freelancer looking to contribute to the NEAR ecosystem or a p
 
 Below is a quick overview of how it works for both [**contributors**](#for-contributors) and [**sponsors**](#for-sponsors).
 
+:::tip Dual-Role Capability
+You can seamlessly operate as both a sponsor and as contributor under a single NEARN account.
+:::
+
 ---
 
 ## For Contributors
@@ -48,7 +52,7 @@ Freelancers, developers, designers, writers, and other NEAR enthusiasts looking 
 Crypto startups, DAOs, and NEAR projects looking for talent to complete tasks (development, marketing, content, etc.).
 
 **How it works:**
-1. **List Opportunities** – Post [projects](opportunities.md#projects), [bounties](opportunities.md#bounties), and [sponsorships](opportunities.md#sponsorships).
+1. **List [Opportunities](opportunities.md)** – Post [projects](opportunities.md#projects), [bounties](opportunities.md#bounties), and [sponsorships](opportunities.md#sponsorships).
 2. **Review Contributors** – Choose from applicants or wait for task submissions.
 3. **Approve & Pay** – Release payment upon satisfactory completion.
 
@@ -63,3 +67,6 @@ Crypto startups, DAOs, and NEAR projects looking for talent to complete tasks (d
 - DAOs looking to decentralize tasks.
 - Companies wanting to incentivize community contributions.
 
+### Multiple Sponsor Identities
+
+If you oversee several initiatives or entities (e.g., different DAOs, project arms, or grant programs), you can manage all their distinct sponsor profiles from a single NEARN user account, switching seamlessly between them.
