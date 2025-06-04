@@ -44,16 +44,19 @@ Follow these simple steps to create a new listing:
 ### 3. Fill Out Details
 
 You’ll need to provide:
-- **Title** (e.g., "Frontend Developer for DApp")
-- **Type** (e.g., Bounty, Project, Sponsorship)
-- **Description** (Clearly explain the task, expectations, and deliverables.)
+- **Title:** A clear listing title to attract contributors. (e.g., "Frontend Developer for DApp")
+- **Type:** The listing type ([Bounty, Project, Sponsorship](../opportunities.md))
+- **Description:** Clearly explain the task, expectations, and deliverables. The rich text editor lets you customize the listing and add rich formatting for improved visual impact.
   - Example:
     > _"We need a React developer to build a frontend for our NFT tool. Must have experience with Next.JS and Wallet Selector."_
-- **Rewards** (Specify the payout amount in **USDC** or another token.)
-- **Deadline** (e.g., "2 weeks to complete")
-- **Skills Needed** (e.g., React, TypeScript, UI/UX)
-- **Point of Contact** (e.g., `myemail@example.com`)
-- **Custom Questions** (e.g., _"Are you a Web3 developer?"_)
+- **Rewards:** Specify the payout amount in **USDC**, **NEAR**, or another token.
+  - **Bounties:** you can set up a prize pool with any number of places (1st, 2nd, 3rd, ...) and additional bonus prizes.
+  - **Projects:** it can be a fixed compensation you decide, or applicants can send you quotes.
+  - **Sponsorships:** applicants can send you quotes of any amount.
+- **Deadline:** Specific deadline when the listing ends, based on your timezone. (e.g., "2 weeks to complete")
+- **Skills Needed:** Specify skills needed using a clear tagging system so the right talent can find your listing. (e.g., React, TypeScript, UI/UX)
+- **Point of Contact:** Provide a clear point of contact for questions. (e.g., `myemail@example.com`)
+- **Custom Questions:** Add custom questions to your application forms to gather exactly the information you need from potential contributors. (e.g., _"Are you a Web3 developer?"_)
 
 <div class="screenshot">
 
@@ -65,7 +68,10 @@ When ready, click on the **`Continue`** button. (top-right corner)
 
 ### 4. Publish the Listing
 
-- Set the desired Visibility, Geo-locking and custom URL.
+- Set the listing settings:
+  - **Visibility:** Public (discoverable across the entire NEARN platform) or Private (only accessible via the direct URL)
+  - **Geo-locking:** Make your opportunity available globally or restrict participation to specific countries
+  - **Custom URL:** A clean, user-defined URL (slug) to share the listing easily
 - Review details and click **`Publish`**.
 - The listing will go live, and contributors can apply.
 

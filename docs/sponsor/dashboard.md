@@ -18,7 +18,7 @@ On the dashboard you can switch between multiple sponsors by selecting the desir
 
 ## Manage Active Listings
 
-You can view all your created opportunities in one organized space:
+You can view and manage all your opportunities in one organized space:
 
 <div class="screenshot">
 <img alt="Publish" src="/img/sponsor/dashboard.png" />
@@ -30,6 +30,14 @@ You can view all your created opportunities in one organized space:
 - **Listings:** Total number of listings added to NEARN.
 - **Submissions:** Total number of submissions/applications received on all listings.
 
+### Filter and Search
+
+You can easily filter your listings by their type ([Bounties, Projects, Sponsorships](../opportunities.md)) or current status to quickly find what you need.
+
+### Quick Actions & Edits
+
+The listings table offers a clear summary of each opportunity (_name, submission count, deadline, prize, status_) and provides direct links to edit listings or view their respective submissions, streamlining your management process.
+
 ### Listing Lifecycles
 
 Listings progress through distinct stages, clearly indicated on your dashboard via their current status:
@@ -40,19 +48,15 @@ Listings progress through distinct stages, clearly indicated on your dashboard v
 - **Completed:** The sponsor has processed and verified payment to the recipient(s).
 - **Deleted:** The listing has been hidden from the platform (typically an admin action or for listings that are no longer relevant and were never activated/completed).
 
-### Filter and Search
-
-You can easily filter your listings by their [type](../opportunities.md) (Bounties, Projects, Sponsorships) or current status to quickly find what you need.
-
-### Quick Actions & Edits
-
-The listings table offers a clear summary of each opportunity (name, submission count, deadline, prize, status) and provides direct links to edit listings or view their respective submissions, streamlining your management process.
-
 ---
 
 ## Submissions
 
-All submissions and applications for your opportunities are neatly collected in a dedicated **`Submissions`** page. This allows for consistent and organized review across all your listings for a specific sponsor identity. Or you can also view submissions within a listing.
+All submissions and applications for your opportunities are collected in a dedicated **`Submissions`** page. This allows for consistent and organized review across all your listings for a specific sponsor identity.
+
+:::tip
+You can also view submissions within a listing, by selecting any of your listings from the [My Listing section](#manage-active-listings).
+:::
 
 <div class="screenshot">
 <img alt="Publish" src="/img/sponsor/submissions.png" />
@@ -65,34 +69,41 @@ You can filter submissions or view their individual status as they move through 
 - **Search:** Use the search function to find specific contributors or applications.
 - **View Submission:** Dive deep into each submission to view comprehensive contributor details, including their NEARN profile, contact information (email), NEAR wallet address, and KYC/KYB verification status. Also view their submitted materials and answers to your custom questions, ensuring you have all the information needed for evaluation.
 
-#### Submission Lifecycle:
-- **NEW:** A fresh submission requiring sponsor action; can be edited by the submitter.
-- **REVIEWED:** The submission has been looked at by the sponsor; it is now locked and cannot be edited by the submitter. Sponsor action is still required.
-- **SHORTLISTED:** The submission has been marked as a potential candidate; it is locked and cannot be edited. Sponsor action is still required.
-- **APPROVED:** The submission has been selected as a winner or approved for the opportunity.
-- **REJECTED:** The submission has not been selected.
-- **PAID:** Payment has been processed for the approved submission/participant. (This status is typically updated automatically or by the sponsor after payment actions).
-- **SPAM:** The submission has been marked as spam, and the submitter may be blocked from making new submissions to that listing.
-- **DELETED:** The submission has been removed (typically an admin/sponsor action).
+### Submission Lifecycle
+
+- **New:** A fresh submission requiring sponsor action; can be edited by the submitter.
+- **Reviewed:** The submission has been looked at by the sponsor; it is now locked and cannot be edited by the submitter. Sponsor action is still required.
+- **Shortlisted:** The submission has been marked as a potential candidate; it is locked and cannot be edited. Sponsor action is still required.
+- **Approved:** The submission has been selected as a winner or approved for the opportunity.
+- **Rejected:** The submission has not been selected.
+- **Paid:** Payment has been processed for the approved submission/participant. (This status is typically updated automatically or by the sponsor after payment actions).
+- **Spam:** The submission has been marked as spam, and the submitter may be blocked from making new submissions to that listing.
+- **Deleted:** The submission has been removed (typically an admin/sponsor action).
 
 ### Collaborate on Selections
 
 You can access the internal notes section attached to each submission for your team’s private discussions, feedback, and deliberations during the review process.
 A dedicated public comments section allows for more threaded discussion if needed, keeping all communication about a submission in one place.
 
-### Advance Selection Tools
+### Advanced Selection Tools
 
-Flexible Approval: Depending on the listing type:
+**Flexible approval** depending on the listing type:
 - For [Bounties](../opportunities.md#bounties), select multiple winners and assign specific places (e.g., 1st, 2nd, bonus) according to your prize structure.
 - For [Projects](../opportunities.md#projects), select the single best applicant/proposal to award the project to.
 - For [Sponsorships](../opportunities.md#sponsorships), approve multiple individuals or teams who meet the criteria to receive support.
-Automated Public Announcements: For Bounties and Projects, selected winners are automatically announced on the listing page, providing transparency and recognition. For Sponsorships, approved recipients are managed and funded as per the program's design.
 
-### Manage Payments & Finalize
+:::info Automated public announcements
+- For Bounties and Projects, selected winners are automatically announced on the listing page, providing transparency and recognition.
+- For Sponsorships, approved recipients are managed and funded as per the program's design.
+:::
 
-Clearly track the payment status, agreed amount, and specified currency (e.g., USDT) for each approved submission.
-The system facilitates payment processing. For instance, once a sponsor adds a payment link or confirms payment through integrated methods (like the future NEAR Treasury integration), the corresponding submission's status will typically be updated to **PAID**, and the overall listing may move to **Payment Pending** or **Completed** based on whether all payments are done.
-Formally conclude your engagements by marking sponsorships or other opportunities as **`Completed`** within the platform.
+### Manage Payments
+
+The system facilitates payment processing, by keeping track of the payment status, agreed amount, and specified currency (e.g., USDT) for each approved submission.. For instance, once a sponsor adds a payment link or confirms payment through integrated methods, the corresponding submission's status will typically be updated to **PAID**, and the overall listing will move to **Payment Pending** or **Completed** based on whether all payments are done.
+
+:::tip
+It's recommended to formally conclude your engagements by marking opportunities as **`Completed`** within the platform.
+:::
 
 ### Maintain Records
 
