@@ -30,13 +30,13 @@ By default, your profile can be viewed publicly and its of critical importance f
 2. On the drop-down menu, select **"Edit Profile"**.
 3. Edit and update your profile information.
    - **Username:** Your unique username across NEARN.
-   - **Location:** The country where are you based.
+   - **Location:** The country where you are based.
    - **One-Line Bio:** A concise "one-liner" to quickly introduce yourself.
    - **NEAR Wallet Address:** Link your wallet for seamless reward distribution.
    - **Socials:** Add social and professional links (e.g., X/Twitter, GitHub, LinkedIn, personal website) to provide a detailed picture of your experience.
    - **Work:** Detail your work preferences, relevant experience, community affiliations, and current employer (if applicable).
    - **Proof of Work:** Add projects or links to demonstrate your capabilities and past successes.
-   - **Skills:** Show your skills by selecting from relevant categories. (e.g., Product Manager, Frontend, UI/UX Design). This helps sponsors find you and tailors your opportunity feed.
+   - **Skills:** Show your skills by selecting from relevant categories (e.g., Product Manager, Frontend, UI/UX Design). This helps sponsors find you and tailors your opportunity feed.
    - **Keep info private:** Choose to keep your info private if desired (a public profile enhances discoverability).
 4. Click **`Update Profile`**.
 
