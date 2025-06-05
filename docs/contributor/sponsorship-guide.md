@@ -22,6 +22,8 @@ This guide walks you through applying for [sponsorships](../opportunities.md#spo
 ### 2. Browse Available Sponsorships
 
 - Use the **Explore** or [**Sponsorships**](https://nearn.io/sponsorships/) section to find tasks.
+  - You can also explore the [dynamic homepage feed](https://nearn.io) featuring a wide array of Sponsorships.
+  - Optionally, you can visit individual sponsor profiles to see all the Sponsorships they are currently offering.
 - Filter by:
   - **Category** (Content, Design, Development, etc.)
 

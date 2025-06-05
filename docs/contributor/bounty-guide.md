@@ -30,6 +30,8 @@ This guide walks you through applying for [bounties](../opportunities.md#bountie
 ### 2. Browse Available Bounties
 
 - Use the **Explore** or [**Bounties**](https://nearn.io/bounties/) section to find tasks.
+  - You can also explore the [dynamic homepage feed](https://nearn.io) featuring a wide array of Bounties.
+  - Optionally, you can visit individual sponsor profiles to see all the Bounties they are currently offering.
 - Filter by:
   - **Category** (Content, Design, Development, etc.)
 

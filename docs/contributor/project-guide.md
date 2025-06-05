@@ -26,6 +26,8 @@ This guide walks you through applying for [projects](../opportunities.md#project
 ### 2. Browse Available Projects
 
 - Use the **Explore** or [**Projects**](https://nearn.io/projects/) section to find tasks.
+  - You can also explore the [dynamic homepage feed](https://nearn.io) featuring a wide array of Projects.
+  - Optionally, you can visit individual sponsor profiles to see all the Projects they are currently offering.
 - Filter by:
   - **Category** (Content, Design, Development, etc.)
 

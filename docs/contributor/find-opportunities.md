@@ -16,6 +16,22 @@ You can also visit individual sponsor profile pages to see all the opportunities
 <img alt="form" src="/img/talent/discovery.png" />
 </div>
 
+### Apply, Contribute & Collaborate
+
+Once you find an interesting opportunity, easily view its details, requirements, and rewards.
+Submit your application or proposal directly through the platform, answering any custom questions set by the sponsor. You can follow these guides when applying:
+- [Bounty Guide](bounty-guide.md)
+- [Project Guide](project-guide.md)
+- [Sponsorship Guide](sponsorship-guide.md)
+
+:::tip
+Completed projects and successful contributions can enhance your profile and build your reputation within the NEAR ecosystem.
+:::
+
+### Engage with the Community
+
+Participate in discussions by commenting on listings or your submissions (where applicable), fostering interaction with sponsors and potentially other contributors.
+
 ## Customized Alerts & Notifications
 
 You can opt-in to receive Talent Alerts to stay ahead:

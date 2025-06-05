@@ -34,7 +34,7 @@ This greatly varies on the scope of work, number of submissions, and the sponsor
     
 ## What is the payout process for the winners?
     
-All sponsors have their own payout processes. Usually, once the winners are announced, the sponsor will pay out the winners on their own without contacting them, using the wallet address mentioned by the winners on their profile.
+All sponsors have their own payout processes. Usually, once the winners are announced, the sponsor will pay out the winners on their own without contacting them, using the wallet address mentioned by the winners on their profile. For enhanced visibility and tracking, the NEARN platform allows sponsors to mark submissions as **PAID** when they send a payment.
 
 ## I want to be a Sponsor too, should I register again?
 
