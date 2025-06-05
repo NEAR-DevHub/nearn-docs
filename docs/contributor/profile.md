@@ -9,7 +9,7 @@ description: Contributor's Profile user guide
 Establish your presence by creating a detailed personal profile.
 Your public contributor profile shows your details, skills, an activity feed (e.g., submissions to bounties), and stats like total earned, submissions, and opportunities won.
 
-By default, your profile can be viewed publicly and its of critical importance for discovering opportunities matching your experience, including the activity feed and potential stats (earned/submissions/won).
+By default, your profile can be viewed publicly and it's of critical importance for discovering opportunities matching your experience, including the activity feed and potential stats (earned/submissions/won).
 
 ---
 
