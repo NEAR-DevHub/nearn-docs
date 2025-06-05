@@ -30,7 +30,10 @@ Freelancers, developers, designers, writers, and other NEAR enthusiasts looking 
 
 **How it works:**
 1. **Sign Up** – Connect your Google account or sign in with your email address.
-2. **Browse [Opportunities](opportunities.md)** – Explore available [sponsorships](opportunities.md#sponsorships), [bounties](opportunities.md#bounties), or [projects](opportunities.md#projects) posted by sponsors.
+2. **Browse [Opportunities](opportunities.md)**
+   - Explore a [dynamic homepage feed](https://nearn.io) featuring a wide array of [opportunities](opportunities.md) from various organizations across the NEAR ecosystem.
+   - Browse opportunities by specific categories of work (e.g., Content, Design, Development, Other) or by opportunity types ([Bounties](opportunities.md#bounties), [Projects](opportunities.md#projects), [Sponsorships](opportunities.md#sponsorships)) to narrow your search.
+   - Visit individual sponsor profile pages to see all the opportunities they are currently offering.
 3. **Apply/Complete Tasks** – Submit proposals for projects or directly complete bounties (e.g., write a blog, design graphics, audit code).
 4. **Get Paid** – Once approved, receive payment in crypto (usually USDC, NEAR, or other tokens).
 
