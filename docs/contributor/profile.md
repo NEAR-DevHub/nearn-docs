@@ -15,19 +15,17 @@ By default, your profile can be viewed publicly and it's of critical importance 
 
 ## Edit Your Profile
 
-### 1. Log In
+### 1. Log in
 1. Go to **[https://nearn.io](https://nearn.io)**
-2. Click **"Sign In"** (top-right corner).
+2. Click **`Sign In`** (top-right corner).
 3. Connect with:
   - **Google** account
   - **E-mail** address
 
----
-
-### 2. Edit Your Details
+### 2. Edit your details
 
 1. Click on your name. (top-right corner)
-2. On the drop-down menu, select **"Edit Profile"**.
+2. On the drop-down menu, select **`Edit Profile`**.
 3. Edit and update your profile information.
    - **Username:** Your unique username across NEARN.
    - **Location:** The country where you are based.
@@ -48,18 +46,40 @@ By default, your profile can be viewed publicly and it's of critical importance 
 
 ## View Your Profile
 
-### 1. Log In
+### 1. Log in
 1. Go to **[https://nearn.io](https://nearn.io)**
-2. Click **"Sign In"** (top-right corner).
+2. Click **`Sign In`** (top-right corner).
 3. Connect with:
   - **Google** account
   - **E-mail** address
 
-### 2. View Your Profile
+### 2. View your profile
 
 1. Click on your name. (top-right corner)
-2. On the drop-down menu, select **"Profile"**.
+2. On the drop-down menu, select **`Profile`**.
 
 <div class="screenshot">
 <img alt="form" src="/img/talent/view-profile.png" width="60%" />
+</div>
+
+---
+
+## Update Your Email Preferences
+
+### 1. Log in
+1. Go to **[https://nearn.io](https://nearn.io)**
+2. Click **`Sign In`** (top-right corner).
+3. Connect with:
+  - **Google** account
+  - **E-mail** address
+
+### 2. Edit your preferences
+
+1. Click on your name. (top-right corner)
+2. On the drop-down menu, select **`Email Preferences`**.
+3. Update your settings.
+4. Click on **`Update Preferences`** to save your changes.
+
+<div class="screenshot">
+<img alt="form" src="/img/talent/email.png" width="40%" />
 </div>
