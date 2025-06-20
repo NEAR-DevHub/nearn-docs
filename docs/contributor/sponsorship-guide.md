@@ -10,34 +10,30 @@ This guide walks you through applying for [sponsorships](../opportunities.md#spo
 
 ## Apply for a Sponsorship
 
-### 1. Sign Up / Log In
+To submit a sponsorship application, follow these steps:
+
+### 1. Sign up / Log in
 1. Go to **[https://nearn.io](https://nearn.io)**
-2. Click **"Sign In"** (top-right corner).
+2. Click **`Sign In`** (top-right corner).
 3. Connect with:
   - **Google** account
   - **E-mail** address
 
----
+### 2. Browse available sponsorships
 
-### 2. Browse Available Sponsorships
-
-- Use the **Explore** or [**Sponsorships**](https://nearn.io/sponsorships/) section to find tasks.
+- Use the **Explore** or [**`Sponsorships`**](https://nearn.io/sponsorships/) section to find tasks.
   - You can also explore the [dynamic homepage feed](https://nearn.io) featuring a wide array of Sponsorships.
   - Optionally, you can visit individual sponsor profiles to see all the Sponsorships they are currently offering.
 - Filter by:
   - **Category** (Content, Design, Development, etc.)
 
----
-
-### 3. Select a Sponsorship
+### 3. Select a sponsorship
 
 1. Click on a sponsorship that interests you.
 2. Read the **description, requirements, and budget** carefully.
 3. Click **`Submit Now`**.
 
----
-
-### 4. Submit Your Application
+### 4. Submit your application
 
 Follow the sponsorship’s submission guidelines:
 1. **Answer all Questions** (Code, design files, article, etc.).
@@ -62,8 +58,6 @@ Follow the sponsorship’s submission guidelines:
 
 :::
 
----
-
-### 5. Get Paid!
+### 5. Get paid!
 
 - Once your submission has been reviewed and approved, the sponsor will send the **crypto payment (USDC, NEAR, etc.)** to your wallet.

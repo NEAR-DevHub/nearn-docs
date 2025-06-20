@@ -12,20 +12,18 @@ The Sponsor profile lets you showcase your organization's logo, name, detailed d
 
 ## Edit Your Sponsor Profile
 
-### 1. Log In
+### 1. Log in
 1. Go to **[https://nearn.io](https://nearn.io)**
-2. Click **"Sign In"** (top-right corner).
+2. Click **`Sign In`** (top-right corner).
 3. Connect with:
   - **Google** account
   - **E-mail** address
 
----
+### 2. Edit your sponsor details
 
-### 2. Edit Your Sponsor Details
-
-1. Click **"Sponsor Dashboard"** (top-right corner).
+1. Click **`Sponsor Dashboard`** (top-right corner).
 2. On the dashboard, select the desired Sponsor from the dropdown box. (top-left corner)
-3. Click on the pencil icon to open the **"Edit Sponsor Profile"** screen.
+3. Click on the pencil icon to open the **`Edit Sponsor Profile`** screen.
 
 <div class="screenshot">
 <img alt="form" src="/img/sponsor/edit-pencil.png" width="60%" />
@@ -47,19 +45,41 @@ The Sponsor profile lets you showcase your organization's logo, name, detailed d
 
 ## View Your Sponsor Profile
 
-### 1. Log In
+### 1. Log in
 1. Go to **[https://nearn.io](https://nearn.io)**
-2. Click **"Sign In"** (top-right corner).
+2. Click **`Sign In`** (top-right corner).
 3. Connect with:
   - **Google** account
   - **E-mail** address
 
-### 2. View Your Sponsor Profile
+### 2. View your sponsor profile
 
-1. Click **"Sponsor Dashboard"** (top-right corner).
+1. Click **`Sponsor Dashboard`** (top-right corner).
 2. On the dashboard, select the desired Sponsor from the dropdown box. (top-left corner)
 3. Click on the **`View Profile`** button.
 
 <div class="screenshot">
 <img alt="form" src="/img/sponsor/view-profile.png" width="80%" />
+</div>
+
+---
+
+## Update Your Email Preferences
+
+### 1. Log in
+1. Go to **[https://nearn.io](https://nearn.io)**
+2. Click **`Sign In`** (top-right corner).
+3. Connect with:
+  - **Google** account
+  - **E-mail** address
+
+### 2. Edit your preferences
+
+1. Click on your name. (top-right corner)
+2. On the drop-down menu, select **`Email Preferences`**.
+3. Update your settings.
+4. Click on **`Update Preferences`** to save your changes.
+
+<div class="screenshot">
+<img alt="Publish" src="/img/sponsor/email.png" width="40%" />
 </div>

@@ -46,7 +46,7 @@ None at all!
 
 ## I need help with my submission. How can I get in touch?
 
-You can [get in touch with us](support.md) and we will get back to you ASAP.
+You can [get in touch with the NEARN Support team](support.md) and we will get back to you ASAP.
 
 ## How do you handle disputes?
     
