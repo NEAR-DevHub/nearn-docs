@@ -20,14 +20,14 @@ Creating a new listing on [NEARN](https://nearn.io) is a straightforward process
 
 Follow these simple steps to create a new listing:
 
-### 1. Sign In
+### 1. Sign in
 
 - Go to [https://nearn.io](https://nearn.io).
 - Click **`Sign In`** (top right) and connect via:
   - **Google** account
   - **E-mail** address
 
-### 2. Create New Listing
+### 2. Create new listing
 
 - Once logged in, click **`Create New Listing`** (in the top left navigation bar).
 - Select the listing type ([bounty, project, sponsorship](../opportunities.md))
@@ -41,7 +41,7 @@ Follow these simple steps to create a new listing:
 
 </div>
 
-### 3. Fill Out Details
+### 3. Fill out details
 
 You’ll need to provide:
 - **Title:** A clear listing title to attract contributors. (e.g., "Frontend Developer for DApp")
@@ -66,7 +66,7 @@ You’ll need to provide:
 
 When ready, click on the **`Continue`** button. (top-right corner)
 
-### 4. Publish the Listing
+### 4. Publish the listing
 
 - Set the listing settings:
   - **Visibility:** Public (discoverable across the entire NEARN platform) or Private (only accessible via the direct URL)
@@ -78,6 +78,8 @@ When ready, click on the **`Continue`** button. (top-right corner)
 <div class="screenshot">
 <img alt="Publish" src="/img/sponsor/create-publish.png" width="60%" />
 </div>
+
+---
 
 ## What Happens After Posting?
 

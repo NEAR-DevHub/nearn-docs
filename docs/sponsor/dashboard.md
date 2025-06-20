@@ -154,11 +154,7 @@ If you have administrator rights, you can remove members from the Sponsor team:
 
 ## Sponsor-Specific Alerts
 
-You can opt-in to receive email notifications critical to managing your opportunities effectively:
+You can [opt-in to receive email notifications](profile.md#update-your-email-preferences) critical to managing your opportunities effectively:
 - Alerts for new submissions received for your listings.
 - Notifications for comments made on your listings.
 - Deadline-related reminders to help you stay on track.
-
-<div class="screenshot">
-<img alt="Publish" src="/img/sponsor/email.png" width="40%" />
-</div>
