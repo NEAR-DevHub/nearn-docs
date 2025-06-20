@@ -14,32 +14,28 @@ This guide walks you through applying for [projects](../opportunities.md#project
 
 ## Apply to a Project
 
-### 1. Sign Up / Log In
+To submit a project application, follow these steps:
+
+### 1. Sign up / Log in
 1. Go to **[https://nearn.io](https://nearn.io)**
-2. Click **"Sign In"** (top-right corner).
+2. Click **`Sign In`** (top-right corner).
 3. Connect with:
   - **Google** account
   - **E-mail** address
 
----
+### 2. Browse available projects
 
-### 2. Browse Available Projects
-
-- Use the **Explore** or [**Projects**](https://nearn.io/projects/) section to find tasks.
+- Use the **Explore** or [**`Projects`**](https://nearn.io/projects/) section to find tasks.
   - You can also explore the [dynamic homepage feed](https://nearn.io) featuring a wide array of Projects.
   - Optionally, you can visit individual sponsor profiles to see all the Projects they are currently offering.
 - Filter by:
   - **Category** (Content, Design, Development, etc.)
 
----
-
-### 3. Select a Project
+### 3. Select a project
 
 1. Click on a project that interests you.
 2. Read the **description, requirements, and budget** carefully.
 3. Click **`Apply Now`**.
-
----
 
 ### 4. Submit Your Application
 
@@ -66,9 +62,7 @@ Follow the project’s submission guidelines:
 
 :::
 
----
-
-### 5. Get Ready to Work!
+### 5. Get ready to work!
 
 - Once your application has been reviewed and selected, you can start working on the deliverables of the project.
 - When the project is delivered, the sponsor will send the **crypto payment (USDC, NEAR, etc.)** to your wallet.
