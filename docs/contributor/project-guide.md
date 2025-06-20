@@ -1,5 +1,5 @@
 ---
-sidebar_position: 0
+sidebar_position: 2
 title: Project Guide
 description: Project user guide
 ---
@@ -26,6 +26,8 @@ This guide walks you through applying for [projects](../opportunities.md#project
 ### 2. Browse Available Projects
 
 - Use the **Explore** or [**Projects**](https://nearn.io/projects/) section to find tasks.
+  - You can also explore the [dynamic homepage feed](https://nearn.io) featuring a wide array of Projects.
+  - Optionally, you can visit individual sponsor profiles to see all the Projects they are currently offering.
 - Filter by:
   - **Category** (Content, Design, Development, etc.)
 
@@ -35,7 +37,7 @@ This guide walks you through applying for [projects](../opportunities.md#project
 
 1. Click on a project that interests you.
 2. Read the **description, requirements, and budget** carefully.
-3. Click **`Send Quote`**.
+3. Click **`Apply Now`**.
 
 ---
 

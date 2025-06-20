@@ -1,9 +1,8 @@
 ---
-sidebar_position: 0
+sidebar_position: 3
 title: Sponsor FAQ
 description: Sponsor FAQs
 ---
-
 
 ## Who qualifies to be a sponsor?
 
@@ -16,6 +15,10 @@ There is no upper or lower limit of the amount of money you need to put up per l
 ## Who judges the bounties & projects?
 
 The sponsors are supposed to review, announce, and pay out the winners on NEARN. It's super simple to manage your submissions, all within NEARN.
+
+## I want to be a Contributor too, should I register again?
+
+No, you don't need to register again. Your registered user account can be used for both roles. (Contributor and Sponsor)
 
 ## Are there any hidden costs and charges?
 

@@ -1,7 +1,7 @@
 ---
-sidebar_position: 0
-title: User FAQ
-description: User FAQs
+sidebar_position: 2
+title: Contributor FAQ
+description: Contributor FAQs
 ---
 
 ## Who can participate on NEARN?
@@ -22,7 +22,7 @@ Yes. An email is sent out to the verified email address of the participant to co
 
 ## Can I make changes to my submission after submitting it?
     
-Yes, you can edit your submission until the deadline of the listing is over.
+Yes, you can edit your submission while the submission status is **New** and the listing is **In Progress**. Please note that submissions are locked once they're **Reviewed** or **Shortlisted**.
 
 ## When working in teams, who should make the submission? All team members or just the lead?
     
@@ -34,7 +34,11 @@ This greatly varies on the scope of work, number of submissions, and the sponsor
     
 ## What is the payout process for the winners?
     
-All sponsors have their own payout processes. Usually, once the winners are announced, the sponsor will pay out the winners on their own without contacting them, using the wallet address mentioned by the winners on their profile.
+All sponsors have their own payout processes. Usually, once the winners are announced, the sponsor will pay out the winners on their own without contacting them, using the wallet address mentioned by the winners on their profile. For enhanced visibility and tracking, the NEARN platform allows sponsors to mark submissions as **PAID** when they send a payment.
+
+## I want to be a Sponsor too, should I register again?
+
+No, you don't need to register again. Your registered user account can be used for both roles. (Contributor and Sponsor)
 
 ## Are there any hidden costs and charges?
 
