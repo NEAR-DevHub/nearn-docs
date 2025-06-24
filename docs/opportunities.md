@@ -10,6 +10,31 @@ description: NEARN opportunities
 - [Projects](#projects): Hire a Freelancer
 - [Sponsorships](#sponsorships): Support Contributors
 
+## Overview
+
+This comparison table presents a quick overview of the different opportunity types, highlighting the key differences between bounties, projects, and sponsorships:
+
+|               | Bounty                                  | Project                                | Sponsorship                            |
+|-----------------------|----------------------------------------|----------------------------------------|----------------------------------------|
+| **Purpose**          | Short-term tasks for quick contributions | Long-term collaborative initiatives   | Sustained funding/support for initiatives or teams |
+| **Duration**         | Days to weeks                          | Weeks to months                        | Ongoing (often months or longer)       |
+| **Team Size**        | Individual or very small groups        | Small to medium teams                  | Any size (individuals to organizations)|
+| **Scope**           | Narrow, well-defined tasks             | Broader objectives with milestones    | Open-ended support for initiatives    |
+| **Compensation**    | Fixed reward (one-time payout)         | Milestone-based payments or revenue share | Recurring stipend, grants, or resource allocation |
+| **Ownership**       | Task ownership remains with poster     | Shared ownership (contributors may retain partial rights) | Sponsored party retains full ownership |
+| **Application**     | Open submission (anyone can complete)  | Proposal-based (team/plan required)    | Formal proposal (goals, budget, KPIs)  |
+| **Best For**        | Quick wins, micro-tasks, freelancers   | Builders, startups, collaborative teams | DAOs, long-term contributors, community leaders |
+| **Accountability**  | Proof of completion required           | Milestone reviews & deliverables       | Periodic reporting (transparency expected) |
+| **Flexibility**     | Rigid (fixed requirements)             | Adaptable (scope may evolve)           | Highly flexible (funding can shift with needs) |
+| **Community Impact** | Solves immediate needs                 | Creates reusable tools/products        | Sustains ecosystems (education, infrastructure) |
+| **Example**         | Fixing a bug, creating content         | Developing a new protocol feature      | Funding a community education program |
+
+:::tip Key differences
+- Bounties are transactional (task→reward), while projects and sponsorships are relational
+- Projects emphasize collaboration, while sponsorships emphasize support
+- Bounties have the clearest success criteria, while sponsorships are most flexible
+:::
+
 ## Bounties
 
 Bounties are listings where everyone completes a given scope of work, and competes for the prize pool.
