@@ -43,6 +43,8 @@ Bounties are listings where everyone completes a given scope of work, and compet
 
 - Bounties can have multiple winners with prize distributions
 
+- Contributors are allowed only one submission per bounty
+
 - Great for awareness campaigns where you want to reach the most people possible
 
 - Get multiple options to choose from
@@ -59,6 +61,8 @@ Projects are freelance gigs — people apply with their proposals but don’t be
 
 - Projects can only have one winner
 
+- Contributors are allowed only one submission per project
+
 - Perfect for work that requires collaboration and iteration
 
 - Single output that is specific to your exact needs
@@ -74,6 +78,8 @@ Get applications based on a questionnaire set by you, and select one applicant t
 Sponsorship listings empower you to fund and reward individual contributions by directly sponsoring innovators.
 
 - Sponsorships can support multiple people (non-competitively)
+
+- Contributors are allowed multiple submissions (each submission is allowed only after approve/reject)
 
 - Ideal for initiatives fueling targeted support and growth
 
