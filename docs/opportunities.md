@@ -24,7 +24,7 @@ This comparison table presents a quick overview of the different opportunity typ
 | **Compensation**    | Fixed reward (one-time payout)         | Milestone-based payments or revenue share | Recurring stipend, grants, or resource allocation |
 | **Ownership**       | Task ownership remains with poster     | Shared ownership (contributors may retain partial rights) | Sponsored party retains full ownership |
 | **Application**     | Open submission (anyone can complete)  | Proposal-based (team/plan required)    | Formal proposal (goals, budget, KPIs)  |
-| **Winner Elegibility**     | Multiple winners                | Only one winner                        | Multiple winners      |
+| **Winner Eligibility**     | Multiple winners                | Only one winner                        | Multiple winners      |
 | **Best For**        | Quick wins, micro-tasks, freelancers   | Builders, startups, collaborative teams | DAOs, long-term contributors, community leaders |
 | **Accountability**  | Proof of completion required           | Milestone reviews & deliverables       | Periodic reporting (transparency expected) |
 | **Flexibility**     | Rigid (fixed requirements)             | Adaptable (scope may evolve)           | Highly flexible (funding can shift with needs) |
