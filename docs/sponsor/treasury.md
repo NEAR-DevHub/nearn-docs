@@ -48,7 +48,7 @@ Follow these simple steps to connect your Sponsor profile to a NEAR Treasury ins
 3. Click on the pencil icon to open the **`Edit Sponsor Profile`** screen.
 
 <div class="screenshot">
-<img alt="form" src="/img/sponsor/edit-pencil.png" width="60%" />
+<img alt="Screenshot of the Edit Sponsor Profile form with pencil icon" src="/img/sponsor/edit-pencil.png" width="60%" />
 </div>
 
 4. Select the **`Integrations`** tab and set your NEAR Treasury information.
