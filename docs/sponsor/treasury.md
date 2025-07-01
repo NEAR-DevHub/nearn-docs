@@ -12,7 +12,7 @@ While payments are still executed on NEAR Treasury, this integration streamlines
 
 ## Requisites
 
-Before you can connect your Sponsor account with a NEAR Treasury instance, you need to add the special account `nearn-io.near` to your [Treasury Member List](https://docs.neartreasury.com/settings#adding-members). This allows NEARN to create payment requests when a winner is selected and payments need to be processed.
+Before you can connect your Sponsor account with a [NEAR Treasury](https://neartreasury.com) instance, you need to add the special account `nearn-io.near` to your [Treasury Member List](https://docs.neartreasury.com/settings#adding-members). This allows NEARN to create payment requests when a winner is selected and payments need to be processed.
 
 To add `nearn-io.near` to your Treasury:
 
@@ -43,8 +43,8 @@ Follow these simple steps to connect your Sponsor profile to a NEAR Treasury ins
 
 ### 2. Connect your Treasury
 
-1. Once logged in, open the [**`Sponsor Dashboard`**](https://nearn.io/dashboard/listings/)
-2. On the dashboard, select the desired Sponsor from the dropdown box. (top-left corner)
+1. Once logged in, open the [**`Sponsor Dashboard`**](https://nearn.io/dashboard/listings/).
+2. On the dashboard, select the desired Sponsor from the dropdown box. (top-left corner).
 3. Click on the pencil icon to open the **`Edit Sponsor Profile`** screen.
 
 <div class="screenshot">
@@ -59,4 +59,50 @@ Follow these simple steps to connect your Sponsor profile to a NEAR Treasury ins
 <img alt="Connect treasury" src="/img/sponsor/treasury-connect.png" width="80%" />
 </div>
 
+<div class="screenshot">
+<img alt="Connect treasury" src="/img/sponsor/connected-treasury.png" width="80%" />
+</div>
 
+---
+
+## Make a Payment with NEAR Treasury
+
+Follow these steps to process a payment using your connected NEAR Treasury:
+
+### 1. Select a submission winner
+
+1. Open the [**`Sponsor Dashboard`**](https://nearn.io/dashboard/listings/).
+2. On the dashboard, select a winner submission that you want to pay.
+3. Click the **`Complete Payment`** button.
+
+<div class="screenshot">
+<img alt="Connect treasury" src="/img/sponsor/complete-payment.png" width="80%" />
+</div>
+
+### 2. Select "Pay with NEAR Treasury"
+
+1. Select the **`Pay with NEAR Treasury`** option.
+
+   :::info
+   If the NEAR Treasury option is not available, please review your [NEAR Treasury integration](#connect-to-near-treasury) settings.
+   :::
+
+<div class="screenshot">
+<img alt="Connect treasury" src="/img/sponsor/complete-payment-opt.png" width="80%" />
+</div>
+
+2. Confirm that the Payment Request was successfully created.
+
+<div class="screenshot">
+<img alt="Connect treasury" src="/img/sponsor/pay-request.png" width="50%" />
+</div>
+
+### 3. Approve payment on NEAR Treasury
+
+1. Open the generated NEAR Treasury **`Payment Request`** link.
+2. Vote and **`Approve`** the payment request.
+3. Once the required approval votes are completed, the payment will be sent to the winner.
+
+<div class="screenshot">
+<img alt="Connect treasury" src="/img/sponsor/payment-treasury.png" width="80%" />
+</div>
