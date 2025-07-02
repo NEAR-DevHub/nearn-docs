@@ -8,7 +8,7 @@ description: NEAR Treasury integration guide.
 
 The [NEAR Treasury](https://neartreasury.com) integration allows sponsors to create payment proposals directly from NEARN once a submission has been approved.
 
-While payments are still executed on NEAR Treasury, this integration streamlines the entire sponsor flow: from listing an opportunity to reviewing submissions, approving rewards, and generating a Treasury proposal. Once a payment is confirmed on-chain, NEARN will automatically reflect its status.
+While payments are still approved and executed on NEAR Treasury, this integration streamlines the entire sponsor flow: from listing an opportunity to reviewing submissions, approving rewards, and generating a Treasury proposal. Once a payment is confirmed on-chain, NEARN will automatically reflect its status.
 
 ## Requisites
 
