@@ -24,7 +24,7 @@ Yes. An email is sent out to the verified email address of the participant to co
 
 No, you don't need to complete KYC to participate in NEARN.
 
-Keep in mind that some sponsors on NEARN – like [DevHub](https://nearn.io/devhub/), [Infra Committee](https://nearn.io/infra-committee/), [Firehose](https://nearn.io/firehose/) – require KYC/KYB verification to process payments, which they manage externally thru tools like SumSub, but NEARN does not manage KYC/KYB.
+Keep in mind that some sponsors on NEARN – like [DevHub](https://nearn.io/devhub/), [Infra Committee](https://nearn.io/infra-committee/), [Firehose](https://nearn.io/firehose/) – require KYC/KYB verification to process payments, which they manage externally through tools like SumSub, but NEARN does not manage KYC/KYB.
 
 NEARN only checks whether the NEAR address appears on a list of verified wallets maintained by those sponsors. If your wallet doesn’t show as verified, please contact the sponsor directly.
 
