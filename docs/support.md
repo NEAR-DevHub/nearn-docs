@@ -14,5 +14,5 @@ Choose from the options below to get started.
 ## Additional Support
 
 :::tip Telegram support
-You can also join our [Telegram channel](https://t.me/near_nearn) for quick support and community interaction.
+You can also join our [Telegram channel](https://t.me/NEARN_IO) for quick support and community interaction.
 :::
