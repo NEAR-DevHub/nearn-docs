@@ -7,7 +7,7 @@ description: Latest changes and updates on NEARN.
 
 ## Roadmap
 
-The NEARN team is working hard every day, simplifying the management of your treasury operations.
+The NEARN team is working hard every day, simplifying the user experience for sponsors and contributors.
 We're excited to share [our roadmap](https://github.com/NEAR-DevHub/.github/issues/29) and offer you a glimpse of our upcoming new features!
 
 :::info
