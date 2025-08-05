@@ -32,10 +32,6 @@ We’ve been listening closely, and the NEARN team has already closed [47 issues
 
 - 📝 [Improved Listing Flow](sponsor/listing-guide.md): We’ve redesigned the experience to make it faster and more intuitive – with a new preview mode, clearer form sections for sponsors and contributors, and support for dropdown-style custom questions in your application forms.
 
-:::tip
-We strongly recommend using the Web4 Gateway for managing your treasury. It ensures you're always on the latest version with the best performance.
-:::
-
 Try out these new features and let us know what you think – more improvements are on the way! 🚀
 
 ---
