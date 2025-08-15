@@ -105,7 +105,7 @@ The system facilitates payment processing, by keeping track of the payment statu
 It's recommended to formally conclude your engagements by marking opportunities as **`Completed`** within the platform.
 :::
 
-### Maintain Records
+### Export Records
 
 Export submission data to CSV at any time, either for all submissions under a sponsor or for a specific listing. This is useful for offline analysis, reporting, or archival purposes.
 
