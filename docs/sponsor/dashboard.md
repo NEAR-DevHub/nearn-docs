@@ -105,9 +105,33 @@ The system facilitates payment processing, by keeping track of the payment statu
 It's recommended to formally conclude your engagements by marking opportunities as **`Completed`** within the platform.
 :::
 
-### Export Records
+## Export Records
 
 Export submission data to CSV at any time, either for all submissions under a sponsor or for a specific listing. This is useful for offline analysis, reporting, or archival purposes.
+
+### Export all Submissions
+
+To export all submissions under your Sponsor:
+1. Open the **`Submissions`** section.
+2. _(Optional)_ Select the desired filters:
+   - **Type:** select the listing type (`All`, `Bounties`, `Projects`, `Sponsorships`).
+   - **Status:** select the submission status (`Everything`, `New`, `Reviewed`, `Rejected`, etc.).
+3. Click on **`Export CSV`**.
+
+<div class="screenshot">
+<img alt="Export" src="/img/sponsor/export-subm-list.png" />
+</div>
+
+### Export Submissions for a Listing
+
+To export all submissions for a specific listing:
+1. Open the **`My Listings`** section.
+2. Select the desired listing.
+3. On the listing page, click on **`Export CSV`**.
+
+<div class="screenshot">
+<img alt="Export" src="/img/sponsor/export-list-view.png" />
+</div>
 
 ---
 
