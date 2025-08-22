@@ -20,7 +20,26 @@ To learn more about upcoming features and improvements, check out the [NEARN roa
 
 This section tracks the evolution of NEARN: find out what's new, what's fixed, or just take a trip down memory lane, remembering those bugs of yesterday.
 
-## Jul 21, 2025
+## August 21, 2025
+
+**What’s New ✨**
+
+- [CSV Export](sponsor/dashboard.md#export-records): Standardized and improved export process for individual listings and all submissions.
+- Re-designed `Create a Listing` modal to improve clarity between listing types.
+- Added the ability to have a link to specific comments.
+- Removed the $100 USD limit to pop up on the main page.
+- Ability to create a Manual Payment.
+
+**Bug Fixes 🐛**
+
+- Fixed bug where the time tooltip was rendered behind the activity modal.
+- Fixed bug where the feed submission link worked as relative rather than external in some cases.
+- Fixed USD value calculations for sponsorships with the chosen token.
+- Fixed an issue with the reward index after a Platform Admin reverted a submission from the `Approved` state.
+
+---
+
+## July 21, 2025
 
 We’ve been listening closely, and the NEARN team has already closed [47 issues](https://github.com/NEAR-DevHub/nearn/issues?q=is%3Aissue%20state%3Aclosed%20closed%3A%3E2025-06-10), from bug fixes to new features.
 
