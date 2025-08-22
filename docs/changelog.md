@@ -24,12 +24,16 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 
 **What’s New ✨**
 
+- Standardized and improved CSV export for particular listing and all submissions
+- Re-designed `Create a Listing` modal to improve clarity between the listing types
 - Added the ability to have a link to specific comments
 - Removed the $100 USD limit to pop up on the main page
 - Ability to create a Manual Payment
 
 **Bug Fixes 🐛**
 
+- Fixed bug where the time tooltip was rendered behind the activity modal
+- Fixed bug that feed submission link worked as relative rather than external in some cases
 - Fixed USD value calculations for sponsorships with the chosen token
 - Fixed an issue with the reward index after a Platform Admin reverted a submission from the `Approved` state
 
