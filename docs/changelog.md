@@ -20,7 +20,7 @@ To learn more about upcoming features and improvements, check out the [NEARN roa
 
 This section tracks the evolution of NEARN: find out what's new, what's fixed, or just take a trip down memory lane, remembering those bugs of yesterday.
 
-## August 21, 2025
+## August 2025
 
 **What’s New ✨**
 
@@ -39,7 +39,7 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 
 ---
 
-## July 21, 2025
+## July 2025
 
 We’ve been listening closely, and the NEARN team has already closed [47 issues](https://github.com/NEAR-DevHub/nearn/issues?q=is%3Aissue%20state%3Aclosed%20closed%3A%3E2025-06-10), from bug fixes to new features.
 
