@@ -29,6 +29,11 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 - Added the ability to have a link to specific comments.
 - Removed the $100 USD limit to pop up on the main page.
 - Ability to create a Manual Payment.
+- Automate NEAR Treasury status sync.
+- Update submission status & payment info as soon as payment is entered.
+- Improve Submission Details. (Payment Amount)
+- Auto-save contributor submissions.
+- Added Payment Request feature.
 
 **Bug Fixes 🐛**
 
@@ -36,6 +41,9 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 - Fixed bug where the feed submission link worked as relative rather than external in some cases.
 - Fixed USD value calculations for sponsorships with the chosen token.
 - Fixed an issue with the reward index after a Platform Admin reverted a submission from the `Approved` state.
+- Fixed bug where listing status shows as `Payment Pending` when it's completed.
+- Fixed bug where `Back` button does not work if page is opened in a new tab.
+- Fixed non-intuitive behavior on the Sponsor Dashboard. (`Submissions`)
 
 ---
 
