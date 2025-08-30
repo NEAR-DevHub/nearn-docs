@@ -14,7 +14,7 @@ As a sponsor, you can use the system to register payment transaction details to 
 
 ## Add a Payment link
 
-Follow these steps to process a payment using your connected NEAR Treasury:
+Follow these steps to add a payment link after paying the contributor using your preferred method:
 
 ### 1. Select a submission winner
 
@@ -44,7 +44,7 @@ Follow these steps to process a payment using your connected NEAR Treasury:
 
 ## Register a Manual Payment
 
-Follow these steps to process a payment using your connected NEAR Treasury:
+Follow these steps to register a payment made manually using your preferred payment channel:
 
 ### 1. Select a submission winner
 
@@ -91,7 +91,7 @@ Follow these steps to process a payment using your connected NEAR Treasury:
 1. Select the **`Pay with NEAR Treasury`** option.
 
    :::info
-   If the NEAR Treasury option is not available, please review your [NEAR Treasury integration](#connect-to-near-treasury) settings.
+   If the NEAR Treasury option is not available, please review your [NEAR Treasury integration](../treasury.md#connect-to-near-treasury) settings.
    :::
 
 <div class="screenshot">
