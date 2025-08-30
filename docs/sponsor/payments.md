@@ -1,16 +1,18 @@
 ---
 sidebar_position: 4
 title: Making Payments
-description: NEAR Treasury integration guide.
+description: How to make payments to winners.
 ---
 
 ## Overview
 
-The [NEAR Treasury](https://neartreasury.com) integration allows sponsors to create payment proposals directly from NEARN once a submission has been approved.
+As a sponsor, you can use the system to register payment transaction details to your listing's winners. NEARN supports a range of payment methods:
 
-While payments are still approved and executed on NEAR Treasury, this integration streamlines the entire sponsor flow: from listing an opportunity to reviewing submissions, approving rewards, and generating a Treasury proposal. Once a payment is confirmed on-chain, NEARN will automatically reflect its status.
+- [Payment Link](#add-a-payment-link): pay the contributor using your preferred method, then paste the transaction link for on-chain verification.
+- [Manual Payment](#register-a-manual-payment): make the payment via your preferred channel, then enter the transaction manually.
+- [NEAR Treasury](#make-a-payment-with-near-treasury): create payment requests on your [Treasury](treasury.md) directly from NEARN.
 
-## Register a Manual Payment
+## Add a Payment link
 
 Follow these steps to process a payment using your connected NEAR Treasury:
 
