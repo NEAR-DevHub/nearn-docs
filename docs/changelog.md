@@ -20,7 +20,7 @@ To learn more about upcoming features and improvements, check out the [NEARN roa
 
 This section tracks the evolution of NEARN: find out what's new, what's fixed, or just take a trip down memory lane, remembering those bugs of yesterday.
 
-## August 21, 2025
+## August 2025
 
 **What’s New ✨**
 
@@ -29,6 +29,11 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 - Added the ability to have a link to specific comments.
 - Removed the $100 USD limit to pop up on the main page.
 - Ability to create a Manual Payment.
+- Automate NEAR Treasury status sync.
+- Update submission status & payment info as soon as payment is entered.
+- Improve Submission Details. (Payment Amount)
+- Auto-save contributor submissions.
+- Added Payment Request feature.
 
 **Bug Fixes 🐛**
 
@@ -36,10 +41,13 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 - Fixed bug where the feed submission link worked as relative rather than external in some cases.
 - Fixed USD value calculations for sponsorships with the chosen token.
 - Fixed an issue with the reward index after a Platform Admin reverted a submission from the `Approved` state.
+- Fixed bug where listing status shows as `Payment Pending` when it's completed.
+- Fixed bug where `Back` button does not work if page is opened in a new tab.
+- Fixed non-intuitive behavior on the Sponsor Dashboard. (`Submissions`)
 
 ---
 
-## July 21, 2025
+## July 2025
 
 We’ve been listening closely, and the NEARN team has already closed [47 issues](https://github.com/NEAR-DevHub/nearn/issues?q=is%3Aissue%20state%3Aclosed%20closed%3A%3E2025-06-10), from bug fixes to new features.
 
