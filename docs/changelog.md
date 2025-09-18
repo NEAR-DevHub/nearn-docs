@@ -20,6 +20,32 @@ To learn more about upcoming features and improvements, check out the [NEARN roa
 
 This section tracks the evolution of NEARN: find out what's new, what's fixed, or just take a trip down memory lane, remembering those bugs of yesterday.
 
+## September 2025
+
+**What’s New ✨**
+
+- Added Sponsor configuration option for multiple submissions (Submission Limit Settings & Dynamic Contributor).
+- Renamed the `Author` role to `Talent` in the comments and activity.
+- Added a `Creator` role to comments made by the listing's creator.
+- Added support to pin comments:
+  - Sponsors can pin comments in listings and submissions.
+  - Talents can pin comments in their Proof of Work.
+- Added fiat currencies to _Manual Payment_.
+- Added an optional activity field to the submission table to review the latest activity.
+- Changed internal notes to comments.
+- Added JAMBO token support.
+
+**Bug Fixes 🐛**
+
+- Fixed: Activity displayed unfinished lines and empty dates in some cases.
+- Fixed: User-facing submission table displayed incorrect submission time.
+- Fixed: Users/Sponsors could create empty comments.
+- Fixed: Bounty could not be edited after the deadline.
+- Fixed: Bounties and projects could be edited in the non-`New` status.
+- Fixed: Sponsorship with fixed currency was not able to approve winners.
+
+---
+
 ## August 2025
 
 **What’s New ✨**
