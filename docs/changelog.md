@@ -24,7 +24,7 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 
 **What’s New ✨**
 
-- Added Sponsor configuration option for multiple submissions (Submission Limit Settings & Dynamic Contributor).
+- Added Sponsor configuration option for multiple submissions (Submission Limit Settings).
 - Renamed the `Author` role to `Talent` in the comments and activity.
 - Added a `Creator` role to comments made by the listing's creator.
 - Added support to pin comments:
