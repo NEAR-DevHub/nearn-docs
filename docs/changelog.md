@@ -20,10 +20,18 @@ To learn more about upcoming features and improvements, check out the [NEARN roa
 
 This section tracks the evolution of NEARN: find out what's new, what's fixed, or just take a trip down memory lane, remembering those bugs of yesterday.
 
+<!--
+- Added notification solution to NEARN platform.
+-->
+
 ## September 2025
 
 **What’s New ✨**
 
+- Added searching and sorting options to Sponsor dashboard:
+  - Sort by approval date.
+  - Sort by payment date.
+  - Search by message field in the activity history.
 - Added Sponsor configuration option for multiple submissions (Submission Limit Settings).
 - Renamed the `Author` role to `Talent` in the comments and activity.
 - Added a `Creator` role to comments made by the listing's creator.
