@@ -20,9 +20,21 @@ To learn more about upcoming features and improvements, check out the [NEARN roa
 
 This section tracks the evolution of NEARN: find out what's new, what's fixed, or just take a trip down memory lane, remembering those bugs of yesterday.
 
-<!--
-- Added notification solution to NEARN platform.
--->
+## October 2025
+
+**What’s New ✨**
+
+- Added animation to tab change in Sponsor edit mode.
+- Added notification solution to the NEARN platform.
+  - New in-app notifications.
+  - New email design for notifications.
+
+**Bug Fixes 🐛**
+
+- Fixed: skills could go behind the footer in Talent edit mode.
+- Fixed: payment type for project/bounty/sponsorships.
+
+---
 
 ## September 2025
 
