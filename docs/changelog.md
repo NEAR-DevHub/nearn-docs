@@ -24,7 +24,30 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 
 **What’s New ✨**
 
-- Added notification solution to NEARN platform.
+- Added submission Token currency conversion.
+- Integrated Payment setup modal.
+- Added initial support for project milestones.
+- Added animation to tab change in Sponsor edit mode.
+- Added notification solution to the NEARN platform.
+  - New in-app notifications.
+  - New email design for notifications.
+- Added notification settings to NEARN mobile version.
+
+**Bug Fixes 🐛**
+
+- Fixed: logout issue when user is in Edit listing page.
+- Fixed: disable buttons when in listing preview mode.
+- Fixed: add a scrollbar to avoid submission overlapping.
+- Fixed: adjust sponsor submission viewing area height for devices with high aspect ratios.
+- Fixed: user avatar issue on submission's comments.
+- Fixed: skills could go behind the footer in Talent edit mode.
+- Fixed: payment type for project/bounty/sponsorships.
+- Fixed: border appears when closing listings selection.
+- Fixed: double scroll in notification settings dialog.
+- Fixed: clickable area for collapsible rows.
+- Fixed: don’t show sponsor settings when a user has no sponsor accounts.
+- Fixed: display incorrect notification count.
+- Fixed: hide header notification icon when bottom bar is present.
 
 ---
 
