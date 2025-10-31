@@ -24,6 +24,15 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 
 **What’s New ✨**
 
+- Added Milestones support for projects and sponsorships.
+- Re-designed tabs for notes, comments, and activity.
+- Combined `approved`/`paid`/`submission date` into a Dates table column.
+- Extended Sponsor submission viewing area.
+- Improved modal for hiring talent:
+  - After a Sponsor selects a winner for a project, all other talents will be rejected.
+- Introduced new submission statuses (`Canceled`, `In-Progress`) for projects and sponsorships.
+- Introduced new listing status (`Canceled`) for projects.
+- Improved default submission order for listing in Sponsor view.
 - Added animation to tab change in Sponsor edit mode.
 - Added notification solution to the NEARN platform.
   - New in-app notifications.
@@ -31,6 +40,11 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 
 **Bug Fixes 🐛**
 
+- Added currency conversion for manual payment.
+- Fixed: preview recursion when a user go to edit from preview page.
+- Fixed: issue where the user couldn't log out of listing editing.
+- Fixed: on Firefox, allow users to choose a Google account instead of using the last one.
+- Fixed: NEARN used the wrong Coingecko price API ticker for AURORA token.
 - Fixed: skills could go behind the footer in Talent edit mode.
 - Fixed: payment type for project/bounty/sponsorships.
 
