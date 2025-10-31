@@ -30,8 +30,8 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 - Extended Sponsor submission viewing area.
 - Improved modal for hiring talent:
   - After a Sponsor selects a winner for a project, all other talents will be rejected.
-- Introduced new submission statuses (`Cancelled`, `In-Progress`) for projects and sponsorships.
-- Introduced new listing status (`Cancelled`) for projects.
+- Introduced new submission statuses (`Canceled`, `In-Progress`) for projects and sponsorships.
+- Introduced new listing status (`Canceled`) for projects.
 - Improved default submission order for listing in Sponsor view.
 - Added animation to tab change in Sponsor edit mode.
 - Added notification solution to the NEARN platform.
