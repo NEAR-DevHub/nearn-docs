@@ -20,21 +20,20 @@ To learn more about upcoming features and improvements, check out the [NEARN roa
 
 This section tracks the evolution of NEARN: find out what's new, what's fixed, or just take a trip down memory lane, remembering those bugs of yesterday.
 
+<!--
 ## November 2025
 
 **What’s New ✨**
 
-- Added cron job for overdue Milestones.
 
 **Bug Fixes 🐛**
-
-- Fixed: a user could have a 0th place during bounty editing, preventing you from publishing.
-- Fixed: users couldn't log out in some scenarios.
+-->
 
 ## October 2025
 
 **What’s New ✨**
 
+- Added cron job for overdue Milestones.
 - Added Milestones support for projects and sponsorships.
 - Re-designed tabs for notes, comments, and activity.
 - Combined `approved`/`paid`/`submission date` into a Dates table column.
@@ -44,6 +43,7 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 - Introduced new submission statuses (`Canceled`, `In-Progress`) for projects and sponsorships.
 - Introduced new listing status (`Canceled`) for projects.
 - Improved default submission order for listing in Sponsor view.
+- Added currency conversion for manual payment.
 - Added animation to tab change in Sponsor edit mode.
 - Added notification solution to the NEARN platform.
   - New in-app notifications.
@@ -51,7 +51,8 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 
 **Bug Fixes 🐛**
 
-- Added currency conversion for manual payment.
+- Fixed: a user could have a 0th place during bounty editing, preventing you from publishing.
+- Fixed: users couldn't log out in some scenarios.
 - Fixed: preview recursion when a user go to edit from preview page.
 - Fixed: issue where the user couldn't log out of listing editing.
 - Fixed: on Firefox, allow users to choose a Google account instead of using the last one.
