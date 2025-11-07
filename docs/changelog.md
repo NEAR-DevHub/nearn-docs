@@ -20,6 +20,17 @@ To learn more about upcoming features and improvements, check out the [NEARN roa
 
 This section tracks the evolution of NEARN: find out what's new, what's fixed, or just take a trip down memory lane, remembering those bugs of yesterday.
 
+## November 2025
+
+**What’s New ✨**
+
+- Added cron job for overdue Milestones.
+
+**Bug Fixes 🐛**
+
+- Fixed: a user could have a 0th place during bounty editing, preventing you from publishing.
+- Fixed: the user couldn't log out in some scenarios.
+
 ## October 2025
 
 **What’s New ✨**
