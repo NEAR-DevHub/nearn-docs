@@ -29,7 +29,7 @@ This section tracks the evolution of NEARN: find out what's new, what's fixed, o
 **Bug Fixes 🐛**
 
 - Fixed: a user could have a 0th place during bounty editing, preventing you from publishing.
-- Fixed: the user couldn't log out in some scenarios.
+- Fixed: users couldn't log out in some scenarios.
 
 ## October 2025
 
